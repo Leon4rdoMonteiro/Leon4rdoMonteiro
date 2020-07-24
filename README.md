@@ -4,6 +4,16 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-26B03D?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531989551995)](https://api.whatsapp.com/send?phone=5561982810868)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leehcamposs2)](https://twitter.com/_leon4rdo_sh)
 
-## Hi, I'm Leonardo :rocket:
+## Hi, I'm Leonardo Monteiro! :brazil: 
 
-💻 I'm a back-end developer in the following technologies: Node.js (Javascript/Typescript).
+💻 I'm back-end developer in the following technologies: Node.js (Javascript/Typescript).
+
+:rocket: Working from home at @UGrowth
+
+🎓 Graduated in Systems Analysis and Development
+
+:zap: Experience using the following frameworks: ExpressJS, AdonisJS & NestJS.
+
+:collision: Knowledge in Amazon Web Services
+
+:alien: Constantly evolving
