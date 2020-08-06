@@ -10,7 +10,7 @@
 
 :brazil: Living in Brasília, Brazil 
 
-:rocket: Working from home at [@UGrowth](https://ugrowth.com.br/)
+:rocket: Working from home at [@UGrowth](https://ugrowth.com.br/) & [@Transmuta]
 
 🎓 Graduated in Systems Analysis and Development
 
