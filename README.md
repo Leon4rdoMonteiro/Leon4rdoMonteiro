@@ -1,3 +1,5 @@
+![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=Leon4rdoMonteiro)
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Leon4rdoMonteiro)](https://github.com/Leon4rdoMonteiro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-sh/)](https://www.linkedin.com/in/leonardo-sh/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardo.monteiro@ugrowth.com.br)](mailto:leonardo.monteiro@ugrowth.com.br) 
@@ -20,3 +22,6 @@
 :collision: Knowledge in Amazon Web Services
 
 :alien: Constantly evolving
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon4rdoMonteiro&layout=compact)](https://github.com/Leon4rdoMonteiro/github-readme-stats)
