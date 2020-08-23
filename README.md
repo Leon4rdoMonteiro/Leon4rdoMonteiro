@@ -1,4 +1,4 @@
-![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=Leon4rdoMonteiro&theme=buefy&show_icons=true)
+![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=Leon4rdoMonteiro&theme=nord&show_icons=true)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Leon4rdoMonteiro)](https://github.com/Leon4rdoMonteiro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-sh/)](https://www.linkedin.com/in/leonardo-sh/)
@@ -24,4 +24,4 @@
 :alien: Constantly evolving
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon4rdoMonteiro&theme=buefy&layout=compact)](https://github.com/Leon4rdoMonteiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon4rdoMonteiro&theme=nord&layout=compact)](https://github.com/Leon4rdoMonteiro/github-readme-stats)
