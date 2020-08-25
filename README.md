@@ -7,9 +7,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_leon4rdo_sh)](https://twitter.com/_leon4rdo_sh)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_leon4rdo.sh)](https://www.instagram.com/_leon4rdo.sh) 
 
-## Hi, I'm Leonardo Monteiro! 👋🏾
+## Hi there, I'm Leonardo Monteiro! 👋🏾
 
-💻 I'm back-end developer in the following technologies: Node.js (Javascript/Typescript).
+💻 I'm back-end developer in the following technologies:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 :brazil: Living in Brasília, Brazil 
 
@@ -17,9 +18,13 @@
 
 🎓 Graduated in Systems Analysis and Development
 
-:zap: Experience using the following frameworks: ExpressJS, AdonisJS & NestJS.
+:zap: Experience using the following frameworks:
+<code><img height="20" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png"></code> 
+<code><img height="20" src="https://avatars2.githubusercontent.com/u/13810373?s=200&v=4"></code> 
+<code><img height="20" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"></code>
+<code><img height="20" src="https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/Serverless_logo.png"></code> 
 
-:collision: Knowledge in Amazon Web Services
+:collision: Knowledge in Amazon Web Services <code><img height="20" src="https://lavca.org/wp-content/uploads/2019/10/aws-logo-square.png"></code> 
 
 :alien: Constantly evolving
 
