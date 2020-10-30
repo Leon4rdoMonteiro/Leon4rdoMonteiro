@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-sh/)](https://www.linkedin.com/in/leonardo-sh/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardomonteiro.sh@gmail.com)](mailto:leonardomonteiro.sh@gmail.com) 
 
-## Hi there, I'm Leonardo Monteiro! 👋🏾
+## Hi there, I'm Léo! 👋🏾
 
 💻 I'm back-end developer in the following technologies:
 <a href="https://www.javascript.com/">
