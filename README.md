@@ -1,10 +1,10 @@
-![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=Leon4rdoMonteiro&theme=graywhite&show_icons=true)
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Leon4rdoMonteiro)](https://github.com/Leon4rdoMonteiro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-sh/)](https://www.linkedin.com/in/leonardo-sh/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardomonteiro.sh@gmail.com)](mailto:leonardomonteiro.sh@gmail.com) 
 
 ## Hi there, I'm Léo! 👋🏾
+
+![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=Leon4rdoMonteiro&theme=dark&show_icons=true)
 
 💻 I'm back-end developer in the following technologies:
 <a href="https://www.javascript.com/">
@@ -58,4 +58,6 @@
   </code>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon4rdoMonteiro&theme=graywhite&layout=compact)](https://github.com/Leon4rdoMonteiro/github-readme-stats)
+![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=Leon4rdoMonteiro&theme=tokyonight&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon4rdoMonteiro&theme=dark&layout=compact)](https://github.com/Leon4rdoMonteiro/github-readme-stats)
