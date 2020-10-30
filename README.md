@@ -61,7 +61,4 @@
   </code>
 </a>
 
-:alien: Constantly evolving
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon4rdoMonteiro&theme=graywhite&layout=compact)](https://github.com/Leon4rdoMonteiro/github-readme-stats)
