@@ -58,6 +58,4 @@
   </code>
 </a>
 
-![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=Leon4rdoMonteiro&theme=tokyonight&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon4rdoMonteiro&theme=dark&layout=compact)](https://github.com/Leon4rdoMonteiro/github-readme-stats)
