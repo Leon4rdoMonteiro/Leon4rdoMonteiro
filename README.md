@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Léo! 👋🏾
 
-![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=Leon4rdoMonteiro&theme=merko&show_icons=true)
+![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=Leon4rdoMonteiro&theme=tokyonight&show_icons=true)
 
 💻 I'm back-end developer in the following technologies:
 <a href="https://www.javascript.com/">
