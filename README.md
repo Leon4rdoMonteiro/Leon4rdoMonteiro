@@ -21,8 +21,6 @@
   </code>
 </a>
 
-:brazil: Living in Brasília, Brazil 
-
 :house: Working from home
 
 🎓 Graduated in Systems Analysis and Development
