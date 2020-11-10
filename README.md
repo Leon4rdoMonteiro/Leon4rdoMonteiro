@@ -23,7 +23,7 @@
 
 :brazil: Living in Brasília, Brazil 
 
-:rocket: Working from home
+:house: Working from home
 
 🎓 Graduated in Systems Analysis and Development
 
