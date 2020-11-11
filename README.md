@@ -9,8 +9,6 @@
 
 ## <img src="https://raw.githubusercontent.com/jadilson12/jadilson12/master/assets/hi.gif" width="25"> Hey there! I'm Leonardo Monteiro :zap:
 
----
-
 **About me:**
 
 - :zap: Back-end Engineer
@@ -20,8 +18,6 @@
 - 🎓 Graduated in Systems Analysis and Development
 
 - 🇧🇷 Living in Brazil
-
----
 
 **Languages and Tools:**
   
