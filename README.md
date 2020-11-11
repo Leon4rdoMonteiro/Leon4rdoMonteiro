@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-sh) 
 [![Gmail](http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:leonardomonteiro.sh@gmail.com)
 [![Discord](http://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](_leon4rdo.sh#3792)
-[![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vinnyfs89)
+[![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_leon4rdo_sh)
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_leon4rdo.sh)
 [![Telegram](http://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/leon4rdo_sh)
 
@@ -13,7 +13,7 @@
 
 - :zap: Back-end Engineer
 
-- 👜 I’m currently working from home on UGrowth,
+- 👜 I’m currently working from home on UGrowth
 
 - 🎓 Graduated in Systems Analysis and Development
 
