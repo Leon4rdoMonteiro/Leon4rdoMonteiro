@@ -13,7 +13,7 @@
 
 - :zap: Back-end Engineer
 
-- 👜 I’m currently working from home on UGrowth
+- 👜 I’m currently working from home
 
 - 🎓 Graduated in Systems Analysis and Development
 
