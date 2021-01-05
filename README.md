@@ -16,19 +16,3 @@
 
 - 🇧🇷 Living in Brazil
 
-**Languages and Tools:**
-  
-<img height="25" src="https://img.shields.io/badge/javascript-ffff00.svg?&style=for-the-badge&logo=javascript&logoColor=000"></img>
-<img height="25" src="https://img.shields.io/badge/typescript-33adff.svg?&style=for-the-badge&logo=typescript&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"> </img>
-
-<img height="25" src="https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"></img>
-
-<img height="25" src="https://img.shields.io/badge/docker-33adff.svg?&style=for-the-badge&logo=docker&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"></img>
- 
-<img height="25" src="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=black"></img>
-<img height="25" src="https://img.shields.io/badge/NGinx-269539.svg?&style=for-the-badge&logo=NGinx&logoColor=white"></img> 
